@@ -1,2 +1,1 @@
-# Personal Website
-# egreen.github.io
+# gglabs.ai
